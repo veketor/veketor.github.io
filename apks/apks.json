@@ -1,0 +1,13 @@
+{
+  "info": "Temp Android APKs storage folder",
+  "content": "apks",
+  "apks": 
+  [
+    {
+      "name":"MikeColorea",
+      "status":"test",
+      "version":"1.0.7",
+      "uploadDate":"20221107"
+    }
+  ]
+}
